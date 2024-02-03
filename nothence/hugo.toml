@@ -8,6 +8,11 @@ name = 'Home'
 pageRef = '/'
 weight = 10
 
+[[menus.main]]
+name = 'Releases'
+pageRef = '/releases'
+weight = 20
+
 [module]
   [module.hugoVersion]
     extended = false
