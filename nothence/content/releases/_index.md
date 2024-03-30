@@ -180,7 +180,7 @@ Album art, photos, and design by Fabio Scagliola
 ### Tracks
 
 1. [It hurts](portrayed-by-a-blind-painter/it-hurts)
-2. [(Untitled)](portrayed-by-a-blind-painter/(untitled))
+2. [(Untitled)](portrayed-by-a-blind-painter/untitled)
 
 ## Portrayed by a blind painter
 
