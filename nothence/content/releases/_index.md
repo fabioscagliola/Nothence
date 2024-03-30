@@ -216,5 +216,5 @@ Album art, photos, and design by Fabio Scagliola
 12. [Unable](portrayed-by-a-blind-painter/unable)
 13. [Where are you?](portrayed-by-a-blind-painter/where-are-you)
 14. [Who am I?](portrayed-by-a-blind-painter/who-am-i)
-15. [(Untitled)](portrayed-by-a-blind-painter/(untitled))
+15. [(Untitled)](portrayed-by-a-blind-painter/untitled)
 
