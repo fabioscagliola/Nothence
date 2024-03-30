@@ -42,7 +42,7 @@ They sing\
 Despite everything\
 They do nothing but
 
-Sing\
+They sing\
 They don't give a damn\
 If no one listens\
 They sing\
