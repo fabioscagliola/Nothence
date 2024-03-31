@@ -13,6 +13,11 @@ name = 'Releases'
 pageRef = '/releases'
 weight = 20
 
+[[menus.main]]
+name = 'Videos'
+pageRef = '/videos'
+weight = 30
+
 [module]
   [module.hugoVersion]
     extended = false
