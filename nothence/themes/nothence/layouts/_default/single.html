@@ -7,7 +7,7 @@
   {{ .Content }}
 
   <p>&nbsp;</p>
-  <p><small>Fabio Scagliola, <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time></small></p>
+  <p><small>{{ with .Params.author }}{{ . }}{{ else }}Fabio Scagliola{{ end }}, <time datetime="{{ $dateMachine }}">{{ $dateHuman }}</time></small></p>
 
   {{ partial "terms.html" (dict "taxonomy" "tags" "page" .) }}
 {{ end }}

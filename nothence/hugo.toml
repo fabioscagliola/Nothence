@@ -9,19 +9,24 @@ pageRef = '/'
 weight = 10
 
 [[menus.main]]
+name = 'About'
+pageRef = '/about'
+weight = 20
+
+[[menus.main]]
 name = 'Releases'
 pageRef = '/releases'
-weight = 20
+weight = 30
 
 [[menus.main]]
 name = 'Videos'
 pageRef = '/videos'
-weight = 30
+weight = 40
 
 [[menus.main]]
 name = 'Photos'
 pageRef = '/photos'
-weight = 40
+weight = 50
 
 [module]
   [module.hugoVersion]

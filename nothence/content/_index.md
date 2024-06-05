@@ -1,4 +1,4 @@
-Nothence is a personal independent alternative-rock music project, started started by [Fabio Scagliola](https://fabioscagliola.com) in Lugano, Switzerland, in 2009.
+Nothence is a personal independent alternative-rock music project, started by [Fabio Scagliola](https://fabioscagliola.com) in Lugano, Switzerland, in 2009.
 
 The fourth instrumental post-rock studio album **Proposed tracks for unproduced movies** was released on December 1, 2018. Fabio had previously released three other studio albums: his favorite one [Post mortem memento vivere](https://pmmv.nothence.com) (September 1, 2016), **Public static void** (March 21, 2014), and **Portrayed by a blind painter** (October 1, 2012).
 

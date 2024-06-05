@@ -1,1 +1,1 @@
-console.log('Welcome to Fabio Scagliola\'s site and blog!');
+console.log('Welcome to the Nothence website!');
